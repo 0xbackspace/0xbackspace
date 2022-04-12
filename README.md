@@ -1,1 +1,1 @@
-<a title="Go to xkcd site" href="https://xkcd.com" target="_blank">![xkcd](https://xkcd.himanshupal.workers.dev/img)</a>
+<a title="Go to xkcd site" href="https://xkcd.com">![xkcd](https://xkcd.himanshupal.workers.dev/img)</a>
