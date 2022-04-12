@@ -1,5 +1,1 @@
-```json
-{ 
-  "message": "If it walks like a duck and it quacks like a duck, then it must be a duck"
-}
-```
+<a title="Go to xkcd site" href="https://xkcd.com" target="_blank">![xkcd](https://xkcd.himanshupal.workers.dev/img)</a>
